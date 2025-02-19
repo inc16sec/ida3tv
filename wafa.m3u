@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/MBC%2B_Drama.jpeg" group-title="Arabic",MBC+ Drama 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC Drama USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama USA
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MBC_1_Logo.svg/500px-MBC_1_Logo.svg.png" group-title="Arabe",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/240px-MBC_4_TV_Channel_Logo.png" group-title="Arabe",MBC 4
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="Arabe",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-name="MBC 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/240px-MBC_4_TV_Channel_Logo.png" group-title="Arabic",MBC 4 
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1  tvg-name="MBC 5 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="Arabic",MBC 5 
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+#EXTINF:-1 tvg-name="MBC ALIRAQ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/MBC_Iraq.svg/320px-MBC_Iraq.svg.png" group-title="Arabic",MBC ALIRAQ 
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+#EXTINF:-1  tvg-name="MBC Masr " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MBC_Masr_Logo.png/240px-MBC_Masr_Logo.png" group-title="Arabic",MBC Masr 
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1  tvg-name="MBC Masr 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Arabic",MBC Masr 2 
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png" group-title="Kids",MBC 3 
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+#EXTINF:-1  tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Entertainment",Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Documentary الجزيرة الوثائقية" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e6/Al_Jazeera_Doc.png" group-title="Factual",Al Jazeera Documentary الجزيرة الوثائقية
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-name="Aljazeera قناة الجزيرة" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/06/Al-Jazeera-News-Logo-120-x-150.png" group-title="News", Aljazeera قناة الجزيرة
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-name="Aljazeera Mubasher الجزيرة مباشر" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/05/Al-Jazeera-Mubasher-31.png" group-title="News", Aljazeera Mubasher الجزيرة مباشر
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-name="Alaraby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Al_Araby_TV_Network_Logo.png/211px-Al_Araby_TV_Network_Logo.png" group-title="News",Alaraby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1  tvg-name="Sharjah Quran الشارقة" tvg-logo="https://maraya.faulio.com/storage/mediagallery/5f/93/fullhd_112f3cfd73b1e9dbf22ca883eeba9c21051b3cd6.png" group-title="Radio",Sharjah Quran الشارقة
+https://svs.itworkscdn.net/smcquranlive/quranradiolive/chunks.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Arabiya HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alarabiya-ae.png" group-title="Arabe",قناة العربية Al Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Arabiya Business " tvg-logo="https://www.lyngsat.com/logo/tv/aa/alarabiya-business-sa.png" group-title="Arabe",Al Arabiya Business 
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Arabe",Chada TV
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",TNT 2M MAROC 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/14792
+#EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula
+http://mywc.dyndns.org:801/1:0:19:A:2:1:EEEE0000:0:0:0:
+#EXTINF:0 CUID="1005" tvg-name="Al Maghribia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabe",Al Maghribia HD
+http://mywc.dyndns.org:801/1:0:19:96:3:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRYADIA HD 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/762869
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/14791
+#EXTINF:-1 tvg-id="┃AR┃  ARRYADIA SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",ARRYADIA SD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/762710
+#EXTINF:-1 tvg-id="┃MA┃  MEDI 1 MAGHREB HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Arabe",MEDI 1 MAGHREB HD
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makkah-tv-sa.png" group-title="Quran",QURAN KAREEM TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="|AR| BAHRAIN QURAN" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-the-holy-quran-bh.png" group-title="Quran",BAHRAIN QURAN
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  Al Quran " tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Quran",┃QURAN┃  Al Quran
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png" group-title="Quran",|Quran| IQRAA
+https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
+#EXTINF:0 CUID="56" tvg-name="Bein Sport SD 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 1
+http://45.139.122.148:8000/play/a004
+#EXTINF:0 CUID="57" tvg-name="Bein Sport SD 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 2
+http://45.139.122.148:8000/play/a005
+#EXTINF:0 CUID="58" tvg-name="Bein Sport SD 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 3
+http://45.139.122.148:8000/play/a006
+#EXTINF:0 CUID="59" tvg-name="Bein Sport SD 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 4
+http://45.139.122.148:8000/play/a007
+#EXTINF:0 CUID="60" tvg-name="Bein Sport SD 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 5
+http://45.139.122.148:8000/play/a008
+#EXTINF:0 CUID="61" tvg-name="Bein Sport SD 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 6
+http://45.139.122.148:8000/play/a009
+#EXTINF:0 CUID="62" tvg-name="Bein Sport SD 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 7
+http://45.139.122.148:8000/play/a00a
+#EXTINF:0 CUID="63" tvg-name="Bein Sport SD 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 8
+http://45.139.122.148:8000/play/a00b
+#EXTINF:0 CUID="64" tvg-name="Bein Sport SD 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 9
+http://45.139.122.148:8000/play/a00c
+#EXTINF:0 CUID="124" tvg-name="Bein Sport 4K 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 1
+http://extraott.com:80/live/3969424152/3723991250/20.m3u8
+#EXTINF:0 CUID="125" tvg-name="Bein Sport 4K 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 2
+http://extraott.com:80/live/3969424152/3723991250/21.m3u8
+#EXTINF:0 CUID="126" tvg-name="Bein Sport 4K 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 3
+http://extraott.com:80/live/3969424152/3723991250/6.m3u8
+#EXTINF:0 CUID="127" tvg-name="Bein Sport 4K 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 4
+http://extraott.com:80/live/3969424152/3723991250/7.m3u8
+#EXTINF:0 CUID="128" tvg-name="Bein Sport 4K 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 5
+http://extraott.com:80/live/3969424152/3723991250/8.m3u8
+#EXTINF:0 CUID="129" tvg-name="Bein Sport 4K 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 6
+http://extraott.com:80/live/3969424152/3723991250/9.m3u8
+#EXTINF:0 CUID="130" tvg-name="Bein Sport 4K 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 7
+http://extraott.com:80/live/3969424152/3723991250/10.m3u8
+#EXTINF:0 CUID="131" tvg-name="Bein Sport 4K 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 8
+http://extraott.com:80/live/3969424152/3723991250/11.m3u8
+#EXTINF:0 CUID="132" tvg-name="Bein Sport 4K 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 9
+http://extraott.com:80/live/3969424152/3723991250/12.m3u8
+#EXTINF:0 CUID="133" tvg-name="Bein Sport NBA 4K" tvg-logo="http://tv.asc.vg/Bein-nba.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport NBA 4K
+http://extraott.com:80/live/3969424152/3723991250/5.m3u8
