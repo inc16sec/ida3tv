@@ -44,17 +44,15 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 #EXTINF:-1 tvg-id="┃AR┃  Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Arabe",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",TNT 2M MAROC 
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/14792
+http://mywc.dyndns.org:801/1:0:1:2:1:1:EEEE0000:0:0:0:
 #EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula
 http://mywc.dyndns.org:801/1:0:19:A:2:1:EEEE0000:0:0:0:
 #EXTINF:0 CUID="1005" tvg-name="Al Maghribia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabe",Al Maghribia HD
 http://mywc.dyndns.org:801/1:0:19:96:3:1:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRYADIA HD 
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/762869
-#EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/14791
-#EXTINF:-1 tvg-id="┃AR┃  ARRYADIA SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",ARRYADIA SD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/762710
+http://mywc.dyndns.org:801/1:0:19:D:2:1:EEEE0000:0:0:0:
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA T2 HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
+http://mywc.dyndns.org:801/1:0:19:82:3:1:EEEE0000:0:0:0:
 #EXTINF:-1 tvg-id="┃MA┃  MEDI 1 MAGHREB HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Arabe",MEDI 1 MAGHREB HD
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="|AR| QURAN KAREEM TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/makkah-tv-sa.png" group-title="Quran",QURAN KAREEM TV
