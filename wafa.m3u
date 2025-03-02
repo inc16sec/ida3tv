@@ -67,41 +67,21 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png" group-title="Quran",|Quran| IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:0 CUID="56" tvg-name="Bein Sport SD 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 1
+#EXTINF:0 CUID="56" tvg-name="Bein Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 1
 http://45.139.122.148:8000/play/a004
-#EXTINF:0 CUID="57" tvg-name="Bein Sport SD 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 2
+#EXTINF:0 CUID="57" tvg-name="Bein Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 2
 http://45.139.122.148:8000/play/a005
-#EXTINF:0 CUID="58" tvg-name="Bein Sport SD 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 3
+#EXTINF:0 CUID="58" tvg-name="Bein Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 3
 http://45.139.122.148:8000/play/a006
-#EXTINF:0 CUID="59" tvg-name="Bein Sport SD 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 4
+#EXTINF:0 CUID="59" tvg-name="Bein Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 4
 http://45.139.122.148:8000/play/a007
-#EXTINF:0 CUID="60" tvg-name="Bein Sport SD 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 5
+#EXTINF:0 CUID="60" tvg-name="Bein Sport 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 5
 http://45.139.122.148:8000/play/a008
-#EXTINF:0 CUID="61" tvg-name="Bein Sport SD 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 6
+#EXTINF:0 CUID="61" tvg-name="Bein Sport 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 6
 http://45.139.122.148:8000/play/a009
-#EXTINF:0 CUID="62" tvg-name="Bein Sport SD 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 7
+#EXTINF:0 CUID="62" tvg-name="Bein Sport 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 7
 http://45.139.122.148:8000/play/a00a
-#EXTINF:0 CUID="63" tvg-name="Bein Sport SD 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 8
+#EXTINF:0 CUID="63" tvg-name="Bein Sport 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 8
 http://45.139.122.148:8000/play/a00b
-#EXTINF:0 CUID="64" tvg-name="Bein Sport SD 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 9
+#EXTINF:0 CUID="64" tvg-name="Bein Sport 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 9
 http://45.139.122.148:8000/play/a00c
-#EXTINF:0 CUID="124" tvg-name="Bein Sport 4K 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 1
-http://extraott.com:80/live/3969424152/3723991250/20.m3u8
-#EXTINF:0 CUID="125" tvg-name="Bein Sport 4K 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 2
-http://extraott.com:80/live/3969424152/3723991250/21.m3u8
-#EXTINF:0 CUID="126" tvg-name="Bein Sport 4K 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 3
-http://extraott.com:80/live/3969424152/3723991250/6.m3u8
-#EXTINF:0 CUID="127" tvg-name="Bein Sport 4K 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 4
-http://extraott.com:80/live/3969424152/3723991250/7.m3u8
-#EXTINF:0 CUID="128" tvg-name="Bein Sport 4K 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 5
-http://extraott.com:80/live/3969424152/3723991250/8.m3u8
-#EXTINF:0 CUID="129" tvg-name="Bein Sport 4K 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 6
-http://extraott.com:80/live/3969424152/3723991250/9.m3u8
-#EXTINF:0 CUID="130" tvg-name="Bein Sport 4K 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 7
-http://extraott.com:80/live/3969424152/3723991250/10.m3u8
-#EXTINF:0 CUID="131" tvg-name="Bein Sport 4K 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 8
-http://extraott.com:80/live/3969424152/3723991250/11.m3u8
-#EXTINF:0 CUID="132" tvg-name="Bein Sport 4K 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport MENA 4K 9
-http://extraott.com:80/live/3969424152/3723991250/12.m3u8
-#EXTINF:0 CUID="133" tvg-name="Bein Sport NBA 4K" tvg-logo="http://tv.asc.vg/Bein-nba.png" group-title="BeIN SPORTS ⚽ 4K",Bein Sport NBA 4K
-http://extraott.com:80/live/3969424152/3723991250/5.m3u8
