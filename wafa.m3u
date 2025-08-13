@@ -41,8 +41,10 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  Chada TV" tvg-logo="https://www.lyngsat.com/logo/tv/cc/chada-tv-ma.png" group-title="Arabe",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",TNT 2M MAROC 
-http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/722?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
+http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/Fe7UwE9owx/751961314347/94?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+#EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula
 http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/723?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
 #EXTINF:0 CUID="1004" tvg-name="Al Aoula HD" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula HD
