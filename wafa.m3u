@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/MBC%2B_Drama.jpeg" group-title="Arabic",MBC+ Drama 
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC Drama USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama USA
 https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/MBC_1_Logo.svg/500px-MBC_1_Logo.svg.png" group-title="Arabe",MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/250px-MBC2_Logo.svg.png" group-title="Arabe",MBC 2
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
+http://213.57.91.138:8000/play/a05k
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png" group-title="Kids",MBC 3 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/240px-MBC_4_TV_Channel_Logo.png" group-title="Arabe",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/5_MBC.webp" group-title="Arabe",MBC 5
@@ -19,8 +21,6 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1  tvg-name="MBC Masr 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/MBC_MASR_2.jpg" group-title="Arabic",MBC Masr 2 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/MBC3_logo_HQ.png" group-title="Kids",MBC 3 
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 #EXTINF:-1  tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Entertainment",Zee Alwan
@@ -46,15 +46,13 @@ http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/Fe7UwE9owx/75196131434
 #EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula
-http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/723?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+https://xddrts.alwaysdata.net/ma15/maaloula.php?m3u8
 #EXTINF:0 CUID="1004" tvg-name="Al Aoula HD" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula HD
 http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/723?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
-#EXTINF:0 CUID="1004" tvg-name="Al Aoula HD T2" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula HD T2
-http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/723?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
 #EXTINF:0 CUID="1005" tvg-name="Al Maghribia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabe",Al Maghribia HD
-http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/720?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
-#EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRYADIA HD 
-http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/725?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",ARRYADIA HD 
+https://oppomu.serv00.net/ma15/maarry.php?m3u8
 #EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA T2 HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
 http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/PFb0s61NW1/9419265272/725?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
 #EXTINF:-1 tvg-id="┃MA┃  MEDI 1 MAGHREB HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/medi-1-tv-ma.png" group-title="Arabe",MEDI 1 MAGHREB HD
@@ -68,20 +66,20 @@ https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png" group-title="Quran",|Quran| IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 CUID="56" tvg-name="Bein Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 1
-http://45.139.122.148:8000/play/a004
+http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
 #EXTINF:0 CUID="57" tvg-name="Bein Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 2
-http://45.139.122.148:8000/play/a005
+http://176.119.29.54/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
 #EXTINF:0 CUID="58" tvg-name="Bein Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 3
-http://45.139.122.148:8000/play/a006
+http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
 #EXTINF:0 CUID="59" tvg-name="Bein Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 4
-http://45.139.122.148:8000/play/a007
+http://176.119.29.54/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
 #EXTINF:0 CUID="60" tvg-name="Bein Sport 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 5
-http://45.139.122.148:8000/play/a008
+http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
 #EXTINF:0 CUID="61" tvg-name="Bein Sport 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 6
-http://45.139.122.148:8000/play/a009
+http://176.119.29.54/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
 #EXTINF:0 CUID="62" tvg-name="Bein Sport 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 7
-http://45.139.122.148:8000/play/a00a
+http://176.119.29.54/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
 #EXTINF:0 CUID="63" tvg-name="Bein Sport 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 8
-http://45.139.122.148:8000/play/a00b
+http://176.119.29.54/c0acccc8-dd00-4dbe-8c03-af30b82b351b.m3u8
 #EXTINF:0 CUID="64" tvg-name="Bein Sport 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 9
-http://45.139.122.148:8000/play/a00c
+http://176.119.29.54/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
