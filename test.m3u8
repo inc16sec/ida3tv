@@ -2,6 +2,13 @@
 #EXT-X-VERSION:6
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:0
+/* --------------- subtitle renditions --------------- */
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Korean",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="es",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://sub.wyzie.ru/c/19a10c50/id/1954501554?format=srt&encoding=UTF-8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="en",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://sub.wyzie.ru/c/19de0c61/id/1954567658?format=srt&encoding=UTF-8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="العربية",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ar",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",URI="https://sub.wyzie.ru/c/19b90c52/id/1954590125?format=srt&encoding=UTF-8"
+
+/* --------------- video media playlist --------------- */
+#EXT-X-STREAM-INF:BANDWIDTH=800000,SUBTITLES="subs"
 #EXTINF:2.0,
-https://icy-boat-356c.10011-8fd.workers.dev/afc7d47f/uz5gyMPGU9TVujalv1-l0oRiRhHQQHRM5iZWRBWvMOwMWIbA1UgpNjwaBppwr227B7ZVM3ZgLZwBSpM9pg3stBIUsxaNefBVulP_gUA6FgqW8BMh1XU2TZKfu6T0C9tdxcTgNPzgwwDpM3ed3o7yLEwJAPHZFyjji8hIDZc6Dg5VxycNzQnLg-zTSUkFLnM8B6Wowd364rOP-hz8gXBoMReeJXNTBn63p2Y13hUnC3vKhac5ZPcP_q9VMZJ2zjZdXKnpjDN_N5VXfqDwo-sHC4r7FOt3cWTcODmLeZTY2DQkqScpcdeB8NqGO6HGfv4D8I21u35h5YcMPK7UYmCxtrPogRjOlWPNLirnxW9Ywc5zxLmq0osagSPeAUJI5j-q7e2CikrW-Ha5rh_vsx9F1BXuJJ3VhLXQ51Le3M5S7SkQ-w2OM5g5Fls6xv-Zv_R8.m3u8
+https://icy-boat-356c.10011-8fd.workers.dev/cloudspark91.live/file2/nlD~9TKCgLA1r5zLLIA75Ah8EFmYnoWUU02PWKIABknDirIlq4uJRXeLGyjJ59u72iVpYa5nTTX8ov37kQbp8OoJh8uijGgxqKDmKrpw5Ng~~qrsXQJKi7QlvR4WQKAb5wby7vl3L5ZkGfFaeyYUOagY5b57fJDPI0Vq3umo+3E=/cGxheWxpc3QubTN1OA==.m3u8
 #EXT-X-ENDLIST
