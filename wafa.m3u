@@ -75,21 +75,39 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="|AR| IQRAA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png" group-title="Quran",|Quran| IQRAA
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
-#EXTINF:0 CUID="56" tvg-name="Bein Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 1
-http://176.119.29.54/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
-#EXTINF:0 CUID="57" tvg-name="Bein Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 2
-http://176.119.29.54/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
-#EXTINF:0 CUID="58" tvg-name="Bein Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 3
-http://176.119.29.54/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
-#EXTINF:0 CUID="59" tvg-name="Bein Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/op3ejs1631279425.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 4
-http://176.119.29.54/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
-#EXTINF:0 CUID="60" tvg-name="Bein Sport 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/93010o1631279441.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 5
-http://176.119.29.54/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
-#EXTINF:0 CUID="61" tvg-name="Bein Sport 6" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6kxiv31631279450.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 6
-http://176.119.29.54/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
-#EXTINF:0 CUID="62" tvg-name="Bein Sport 7" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0s8vk11631279469.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 7
-http://176.119.29.54/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
-#EXTINF:0 CUID="63" tvg-name="Bein Sport 8" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/i95cjl1573386292.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 8
-http://176.119.29.54/c0acccc8-dd00-4dbe-8c03-af30b82b351b.m3u8
-#EXTINF:0 CUID="64" tvg-name="Bein Sport 9" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="BeIN SPORTS ⚽ SD",Bein Sport MENA SD 9
-http://176.119.29.54/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 1 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3854&extension=ts&play_token=TobuSUneIb
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 1 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534831&extension=ts&play_token=vzNXl25jDW
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 2 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3853&extension=ts&play_token=8PT3r7fxGi
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 2 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534830&extension=ts&play_token=yJR1dnExAG
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3851&extension=ts&play_token=tL7EYqNsyE
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 3 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534829&extension=ts&play_token=Wn95TL5sNM
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 4 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3850&extension=ts&play_token=gVricEfua9
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534828&extension=ts&play_token=jiCzIKm6T4
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 5 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3849&extension=ts&play_token=DnXtzqfy7t
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 5 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534827&extension=ts&play_token=WM9xA6ekN6
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 6 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3848&extension=ts&play_token=6hV43jKIhp
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 6 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=534826&extension=ts&play_token=TRX9hJCH8I
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 7 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=3847&extension=ts&play_token=vLFdQirgBh
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 7 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=578834&extension=ts&play_token=Y7zfl1bLt2
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 8 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=10361&extension=ts&play_token=TwfgjwMuVR
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 8 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=578835&extension=ts&play_token=f9jMlG1Svg
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="TV - |AR| ✪ BEIN SPORT 4K",beIN Sports 9 UHD
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=10362&extension=ts&play_token=lVkiNPrqLd
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="TV - |AR| ✪ BEIN SPORT HD",beIN Sports 9 ᴴᴰ
+http://eag23.ddns.net:80/play/live.php?mac=00:1A:79:D9:26:24&stream=578836&extension=ts&play_token=T4MydEyeIj
