@@ -43,6 +43,10 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
 http://ce354af30a3947a345c118805d502641.ar.unver.me:25461/Fe7UwE9owx/751961314347/94?h=3dd4b625679b652dfd881e61755eccd20503a5cb&z=196.70.87.250&i=12791
+#EXTINF:-1 tvg-id="2MMonde.ma@SD",2M Monde 2026
+#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  TNT 2M MAROC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2M_TV_logo.svg/320px-2M_TV_logo.svg.png" group-title="Arabe",2M MAROC 
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|MA| Al Aoula Inter HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/729.png" group-title="TV - |AR| ✪ MOROCCO",|MA| Al Aoula Inter HD
@@ -53,18 +57,8 @@ http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=641883&extension
 http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=8000&extension=ts&play_token=q1F4qcsqYG
 #EXTINF:-1 tvg-id="" tvg-name="|MA| Al Aoula Inter UHD" tvg-logo="http://138.199.27.237:8080/0tv_logo/729.png" group-title="TV - |AR| ✪ MOROCCO",|MA| Al Aoula Inter UHD
 http://egaletv.cc:80/play/live.php?mac=00:1a:79:74:ca:ec&stream=28795&extension=ts&play_token=oSTDNN5PsW
-#EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:23:93:0c&stream=28795&extension=ts
-#EXTINF:0 CUID="1004" tvg-name="Al Aoula" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula International
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:23:93:0c&stream=8001&extension=ts
-#EXTINF:0 CUID="1004" tvg-name="Al Aoula HD" tvg-logo="http://tv.asc.vg/al.aoula.1.mor.png" group-title="Arabe",Al Aoula TNT
-http://one.dream4ktv.biz:80/play/live.php?mac=00:1A:79:23:93:0c&stream=8000&extension=ts
 #EXTINF:0 CUID="1005" tvg-name="Al Maghribia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Arabe",Al Maghribia HD
 https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1,Mor| Arryadia HD ✦
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/99409
-#EXTINF:-1,Mor| Arryadia SD ✦
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/2746
 #EXTINF:-1 tvg-id="┃AR┃  TNT ARRYADIA HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",ARRYADIA HD 
 https://oppomu.serv00.net/ma15/maarry.php?m3u8
 #EXTINF:-1 tvg-id="┃AR┃  TNT ARRIADIA T2 HD " tvg-logo="https://www.lyngsat.com/logo/tv/aa/arryadia-ma.png" group-title="Arabe",TNT ARRIADIA HD 
