@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1,ALWAN MAX 01
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dfhreherherher.simoplay.com/
+https://1.simoplay.com/hls/ivedvqo3ltm.m3u8
+#EXTINF:-1,ALWAN MAX 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dfhreherherher.simoplay.com/
+https://1.simoplay.com/hls/og6th1tl1be.m3u8
+#EXTINF:-1,ALWAN SPORT 01 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661
+#EXTINF:-1,ALWAN SPORT 01 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662
+#EXTINF:-1,ALWAN SPORT 02 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181664
+#EXTINF:-1,ALWAN SPORT 02 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665
+#EXTINF:-1,ALWAN SPORT 03 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181667
+#EXTINF:-1,ALWAN SPORT 03 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668
+#EXTINF:-1,MA: ARRIYADIA
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/1099
+#EXTINF:-1,MA : ARRIYADIA SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/187246
+#EXTINF:-1,ARRIYADIA 1 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/219362
+#EXTINF:-1,ARRIYADIA 2 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/219363
+#EXTINF:-1,ARRIYADIA 3 HD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/219364
+#EXTINF:-1,MA: ARRYADIA TNT
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/161944
+#EXTINF:-1,MA - ARRYADIA HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/940
+#EXTINF:-1,MA - ARRYADIA SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/262651
+#EXTINF:-1 tvg-ID="1424" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS MAX 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1424" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-ID="1424" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS MAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://x.com/
+http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", DAZN HDR 60FPS
+https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
+#EXTINF:-1,Bein Sports Max 1 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291494
+#EXTINF:-1,Bein Sports Max 2 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291495
+#EXTINF:-1,Bein Sports Max 3 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291496
+#EXTINF:-1,Bein Sports Max 4 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291497
+#EXTINF:-1,Bein Sports Max 5 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291498
+#EXTINF:-1,Bein Sports Max 6 4K
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291499
+#EXTINF:-1,Bein Sports Max 1 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291500
+#EXTINF:-1,Bein Sports Max 2 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291501
+#EXTINF:-1,Bein Sports Max 3 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291502
+#EXTINF:-1,Bein Sports Max 4 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291503
+#EXTINF:-1,Bein Sports Max 5 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291504
+#EXTINF:-1,Bein Sports Max 6 FHD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291505
+#EXTINF:-1,Bein Sports Max 1 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291506
+#EXTINF:-1,Bein Sports Max 2 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291507
+#EXTINF:-1,Bein Sports Max 3 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291508
+#EXTINF:-1,Bein Sports Max 4 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291509
+#EXTINF:-1,Bein Sports Max 5 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291510
+#EXTINF:-1,Bein Sports Max 6 HD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291511
+#EXTINF:-1,Bein Sports Max 1 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291512
+#EXTINF:-1,Bein Sports Max 2 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291513
+#EXTINF:-1,Bein Sports Max 3 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291514
+#EXTINF:-1,Bein Sports Max 4 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291515
+#EXTINF:-1,Bein Sports Max 5 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291516
+#EXTINF:-1,Bein Sports Max 6 SD
+http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291517
