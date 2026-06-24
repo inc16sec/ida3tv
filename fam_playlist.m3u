@@ -2,23 +2,27 @@
 #EXTINF:-1,ALWAN MAX 01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dfhreherherher.simoplay.com/
-https://2.simoplay.com/secure-hls/1782326893/IneHH7Jv47QTRphP1AT1Tw/ivedvqo3ltm.m3u8
+https://2.simoplay.com/secure-hls/1782340946/tm0vNlzGQRb98-3qX6xOig/ivedvqo3ltm.m3u8
 #EXTINF:-1,ALWAN MAX 02
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dfhreherherher.simoplay.com/
-https://1.simoplay.com/secure-hls/1782326784/87KAPNh0oTU13-RinZKWTw/og6th1tl1be.m3u8
+https://1.simoplay.com/secure-hls/1782340946/tm0vNlzGQRb98-3qX6xOig/ivedvqo3ltm.m3u8
 #EXTINF:-1,BEIN MAX 4K 
 https://vishnu.indianservers.st/secure/HqfKXhpHYhAonLdMGyNpchWyNyPmBBfD/1782327600/1782354600/bein_morocco_uhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,BEIN MAX 2 HD
 https://junkieembeds.pages.dev/1781914947/7c935affe55344a39f8f9796364d7640/kfUpcHYUyfeUlzVfZ5-a7yDQglCkyvJkiPRsCSawoQg/beinsportsmax2-sa.m3u8
 #EXTINF:-1,BEIN MAX 3 HD
 https://vishnu.indianservers.st/secure/uEnhkubwfJLGXMIPuAHUpPoFbpslCRyG/1782327600/1782354600/bein_morocco/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ALWAN SPORT 01 SD
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662
-#EXTINF:-1,ALWAN SPORT 02 SD
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665
-#EXTINF:-1,ALWAN SPORT 03 SD
-http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668
+#EXTINF:-1,BEIN MAX 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.shop/
+#EXTVLCOPT:http-origin=https://xyzstreams.shop
+https://wc.xyzcloud3.xyz:2053/tod2/index.m3u8
+#EXTINF:-1 BEIN MAX 1
+#EXTVLCOPT:http-referrer=https://streams.center
+#EXTVLCOPT:http-origin=https://streams.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://mainstreams.pro/hls/eJmauBDCIf.m3u8?st=FqzBYOQwR2y75Iv4Ylt17YaBgqGpfu9wFuV61e4gPbk&e=1782349046
 #EXTINF:-1 tvg-ID="1424" tvg-name="beIN SPORTS 1" tvg-logo="" group-title="beIN SPORTS (1080P)",beIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
@@ -52,3 +56,9 @@ https://xfireflix.my.id/mac.php?id=373312.m3u8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026", DAZN HDR 60FPS
 https://fhd60fps-by-opensourecflix.exmax.workers.dev/index.m3u8
+#EXTINF:-1,ALWAN SPORT 01 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181662
+#EXTINF:-1,ALWAN SPORT 02 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181665
+#EXTINF:-1,ALWAN SPORT 03 SD
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181668
