@@ -4,9 +4,23 @@ http://re.mediox.online/live/33523510/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
 https://stm.linkip.org/live/1957_.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
-https://stm.linkip.org/live/1956_.m3u8
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 #EXTINF:-1,beIN SPORTS MAX 4
 https://stm.linkip.org/live/1966_.m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 1 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402388&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 3 SD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402381&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 4 HD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402379&extension=m3u8
+#EXTINF:-1 tvg-logo="https://www.newsroom.info/Upload/libfiles/35/1/932.jpeg" group-title="Sports",AR| ALWAN SPORT 5 SD
+http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402375&extension=m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 HD
+http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 4K
+http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports", beIN Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 1 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -24,6 +38,8 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://xfireflix.my.id/mac.php?id=373312.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" ,Unite8 Sports 2 HD
+http://66.102.126.10:8000/play/a018/index.m3u8
 #EXTINF:-1,4K
 https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
 #EXTINF:-1,TW Sports 
