@@ -1,10 +1,10 @@
 #EXTM3U
+#EXTINF:-1,beIN SPORTS MAX 3
+http://re.mediox.online/live/33523510/index.m3u8
 #EXTINF:-1,beIN SPORTS MAX 1
 https://stm.linkip.org/live/1957_.m3u8
 #EXTINF:-1,beIN SPORTS MAX 2
 https://stm.linkip.org/live/1956_.m3u8
-#EXTINF:-1,beIN SPORTS MAX 3
-https://stm.linkip.org/live/1965_.m3u8
 #EXTINF:-1,beIN SPORTS MAX 4
 https://stm.linkip.org/live/1966_.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 1 4K
