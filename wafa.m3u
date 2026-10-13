@@ -1,43 +1,18 @@
 #EXTM3U
-#EXTINF:-1,beIN SPORTS MAX 3
-http://re.mediox.online/live/33523510/index.m3u8
-#EXTINF:-1,beIN SPORTS MAX 1
-https://stm.linkip.org/live/1957_.m3u8
-#EXTINF:-1,beIN SPORTS MAX 2
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
-#EXTINF:-1,beIN SPORTS MAX 4
-https://stm.linkip.org/live/1966_.m3u8
-#EXTINF:-1 group-title="عرب سبورت" tvg-logo="https://i.postimg.cc/FKrp6jS2/D-x-Mmbt-400x400.jpg",BEIN MMN
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 HD
-http://proxpanel.cc/h1wqD6CY/byxHYgX/707929
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Bein Sports 1 4K
-http://proxpanel.cc/h1wqD6CY/byxHYgX/835130
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/48/1/bein-sports-1-logo-png_seeklogo-481583.png" group-title="Sports", beIN Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 1 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"439baeaabc0554ce99d7e477cd4265cc":"894561ace1d0a9695706fc3df32b0477","9345af2789b95b1ab550a7765bc6c66c":"cc15f780727bc3062c0a46540b684f79","ee517fd3fc59564dac47cc02905489db":"e03b4abba4975dca25865384b503c35c","c667a236624d5dfaabd03ae66bb5fc3f":"afe57367d056f0c0059ec27ae6812461"}
-https://no-batpari.opensourceflix.workers.dev/asdfg.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sportdigital_Fu%C3%9Fball.svg" ,FUSSBALL TV 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" ,Unite8 Sports 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://xfireflix.my.id/mac.php?id=373312.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png" ,Unite8 Sports 2 HD
-http://66.102.126.10:8000/play/a018/index.m3u8
-#EXTINF:-1,4K
-https://live-aburayhan1109.telewebion.ir/ek/faratar/live/playlist.m3u8
-#EXTINF:-1,TW Sports 
-https://github.com/najikatv/xpola-player/raw/39d15fac1bf63327210fe44ba7c8d382badeacea/Professional2.m3u8
+#EXTINF:-1 group-title="-",2M MONDE HD
+http://176.65.153.27:5001/play/a07x
+#EXTINF:-1 group-title="-",Al Aoula Inter
+http://176.65.153.27:5001/play/a07v
+#EXTINF:-1 group-title="-",Al Aoula Inter HD
+http://176.65.153.27:5001/play/a07t
+#EXTINF:-1 group-title="-",Al Maghribia HD
+http://176.65.153.27:5001/play/a07r
+#EXTINF:-1 group-title="-",Arryadia HD
+http://176.65.153.27:5001/play/a07y
+#EXTINF:-1 group-title="-",Assadissa HD
+http://176.65.153.27:5001/play/a07w
+#EXTINF:-1 group-title="-",Athaqafia HD
+http://176.65.153.27:5001/play/a07u
 #EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/MBC%2B_Drama.jpeg" group-title="Arabic",MBC+ Drama 
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="┃AR┃  MBC Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MBC_Drama_Logo.svg/320px-MBC_Drama_Logo.svg.png" group-title="Arabe",MBC Drama
